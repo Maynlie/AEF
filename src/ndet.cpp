@@ -950,7 +950,7 @@ sAutoNDE Minimize(const sAutoNDE& at){
   							classes.push_back(cl);
   						}
   						else
-  						{//Soit j'atterit dans un groupe deja existant
+  						{//Soit j'atterit dans un groupe deja existent
   							classes[g2].insert(e);
   						}
   						

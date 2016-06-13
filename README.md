@@ -7,5 +7,5 @@ et exprime si oui ou non ce mot accepté et appartient au langage que décrit l'
 
 # Exemples
 
-Le dossier exemple contient un certain nombre d'automates sous forme de fichier texte (lisibles par le programme), une représentation graphique de ce dernier (générables par le programme)
+Le dossier example contient un certain nombre d'automates sous forme de fichier texte (lisibles par le programme), une représentation graphique de ce dernier (générables par le programme)
 ainsi qu'un fichier .gv, un format proche du xml (également générables par le programme)
